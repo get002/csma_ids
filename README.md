@@ -1,4 +1,4 @@
-# CM512PE- Introduction To Data Science
+# Introduction To Data Science
 
 ## B.Tech. III Year I Semester
 
