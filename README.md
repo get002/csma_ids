@@ -2,6 +2,8 @@
 
 ## B.Tech. III Year I Semester
 
+[Link for IDS Syllabus, Notes, PPTs](https://drive.google.com/drive/folders/11wwBDSwIWTnVKVHbTTxZNd6KVFouJGcl?usp=sharing)
+
 ## Course Objectives:<br/>
 1.  Learn concepts, techniques and tools they need to deal with various facets of data science   practice, including data collection and integration
 2.  Understand the basic types of data and basic statistics
